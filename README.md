@@ -12,6 +12,7 @@ Pre-requisites:
   * sklearn
   * urllib3
   
+  You can find the required package versions from the eacl-demo.ipynb 
+  
 ## Running
 eacl-demo.ipynb shows all components of the system from training data generation to making the deducitons. The other notebook demos just show parts of the program.
-0
